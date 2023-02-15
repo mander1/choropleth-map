@@ -1,0 +1,24 @@
+body {
+  background: linear-gradient(#126d59, #6ca3c7);
+  color: #00AAFF;
+  font-family: courier;
+}
+
+path {
+  fill: #00AAFF;
+  stroke: rgba(3, 255, 197, 0.55);
+  stroke-width: 1px;
+}
+
+path:hover {
+  fill: #C4FFB0;
+  fill-opacity: 1 !important;
+}
+svg, .info {
+  float: left;
+}
+.info {
+  padding-left: 30px;
+}
+
+
